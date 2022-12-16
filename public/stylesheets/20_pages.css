@@ -1,0 +1,46 @@
+#ob {
+  padding: 4em 2em; }
+
+.index #ob-container {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 274px;
+  background-image: url(/images/bgs/nightrefine.jpg); }
+
+.who_we_are #ob-container {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 360px;
+  background-image: url(/images/portrait/andy2-web.jpg);
+  background-size: cover; }
+
+.articles #ob-container {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 274px;
+  background-image: url(/images/bgs/tanker.jpg); }
+
+.reports #ob-container {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 274px;
+  background-image: url(/images/bgs/tubes.jpg); }
+
+.services #ob-container {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 274px;
+  background-image: url(/images/bgs/sunset-refinery.jpg); }
+
+.contact #navigation {
+  border-bottom: 1px solid #eeeeee !important; }
+.contact #mail-success {
+  padding: 15px;
+  background: #ffffaa;
+  margin-bottom: 15px; }
+
+.in_the_news #ob-container {
+  overflow: hidden;
+  margin: 0 auto;
+  height: 274px;
+  background-image: url(/images/bgs/skyline.jpg); }

@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'VitesseSansBook';
+  src: url("/fonts/vitessesans-book-webfont.eot");
+  src: local("☺"), url("/fonts/vitessesans-book-webfont.woff") format("woff"), url("/fonts/vitessesans-book-webfont.ttf") format("truetype"), url("/fonts/vitessesans-book-webfont.svg#webfonttVk2Vgtz") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+h2 {
+  font-family: "VitesseSansBook";
+  text-transform: uppercase;
+  font-size: 18px; }
